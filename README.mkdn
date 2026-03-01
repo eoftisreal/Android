@@ -8,7 +8,7 @@ To get started with Android/CoinOS, you'll need to get familiar with [Source Con
 
 To initialize your local repository using the CoinOS trees, use a command like this:
 ```
-repo init -u https://github.com/CoinOS/android.git -b coin-23.2 --git-lfs
+repo init -u https://github.com/eoftisreal/android.git -b coin-23.2 --git-lfs
 ```
 Then to sync up:
 ```
