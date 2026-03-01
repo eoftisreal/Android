@@ -14,23 +14,4 @@ Then to sync up:
 ```
 repo sync
 ```
-Please see the [CoinOS Wiki](https://wiki.coinos.org/) for building instructions, by device.
 
-
-Submitting patches
-------------------
-Patches are always welcome! Please submit your patches via CoinOS Gerrit!
-
-Simply follow our guide on [how to submit patches](https://wiki.coinos.org/submitting-patch-howto.html).
-
-To view the status of your and others' patches, visit [CoinOS Gerrit Code Review](https://review.coinos.org/).
-
-
-Buildbot
---------
-
-All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [CoinOS Buildkite](https://buildkite.com/coinos).
-
-Builds produced weekly by the buildbot can be downloaded from [CoinOS downloads](https://download.coinos.org/).
