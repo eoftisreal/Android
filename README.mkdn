@@ -1,29 +1,29 @@
-LineageOS
+CoinOS
 ===========
 
 Getting started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with Android/CoinOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using the CoinOS trees, use a command like this:
 ```
-repo init -u https://github.com/LineageOS/android.git -b lineage-23.2 --git-lfs
+repo init -u https://github.com/CoinOS/android.git -b coin-23.2 --git-lfs
 ```
 Then to sync up:
 ```
 repo sync
 ```
-Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
+Please see the [CoinOS Wiki](https://wiki.coinos.org/) for building instructions, by device.
 
 
 Submitting patches
 ------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit!
+Patches are always welcome! Please submit your patches via CoinOS Gerrit!
 
-Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
+Simply follow our guide on [how to submit patches](https://wiki.coinos.org/submitting-patch-howto.html).
 
-To view the status of your and others' patches, visit [LineageOS Gerrit Code Review](https://review.lineageos.org/).
+To view the status of your and others' patches, visit [CoinOS Gerrit Code Review](https://review.coinos.org/).
 
 
 Buildbot
@@ -31,6 +31,6 @@ Buildbot
 
 All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
 
-You can view the current build statuses at [LineageOS Buildkite](https://buildkite.com/lineageos).
+You can view the current build statuses at [CoinOS Buildkite](https://buildkite.com/coinos).
 
-Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/).
+Builds produced weekly by the buildbot can be downloaded from [CoinOS downloads](https://download.coinos.org/).
